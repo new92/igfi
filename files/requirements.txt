@@ -1,4 +1,4 @@
-instagrapi == 1.16.17
+instagrapi == 2.6.9
 requests == 2.33.0
 instaloader == 4.9.5
 colorama == 0.4.6
