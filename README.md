@@ -179,4 +179,4 @@ Answer ➡️ Only if you're using a very old version of Instagram. But the scri
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=new92/IGFI&type=Date)](https://star-history.com/#new92/IGFI&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=new92/IGFI&type=Date)](https://star-history.dera.page/#new92/IGFI&Date)
