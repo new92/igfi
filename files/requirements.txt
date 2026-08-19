@@ -1,6 +1,6 @@
-instagrapi == 2.6.9
-requests == 2.33.0
-instaloader == 4.9.5
-colorama == 0.4.6
-rich == 12.6.0
-argparse == 1.4.0
+instagrapi
+requests
+instaloader
+colorama
+rich
+argparse
