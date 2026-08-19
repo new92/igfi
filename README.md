@@ -1,16 +1,16 @@
-<center><img src="https://github.com/new92/IGFI/assets/94779840/21aa884d-6dfe-46b3-881c-e9f74b69dedc" alt="Logo" width="512" height="512" /></center>
+<center><img src="https://github.com/new92/igfi/assets/94779840/21aa884d-6dfe-46b3-881c-e9f74b69dedc" alt="Logo" width="512" height="512" /></center>
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9864f7f507804c81975576919a4a684a?logo=codacy&style=for-the-badge)](https://app.codacy.com/gh/new92/IGFI/dashboard?logo=codacy&style=for-the-badge) [![Number of files](https://img.shields.io/github/directory-file-count/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/directory-file-count/new92/IGFI) [![Code size](https://img.shields.io/github/languages/code-size/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/languages/code-size/new92/IGFI) [![Followers](https://img.shields.io/github/followers/new92?style=for-the-badge)](https://img.shields.io/github/followers/new92) [![Forks](https://img.shields.io/github/forks/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/forks/new92/IGFI) [![Stars](https://img.shields.io/github/stars/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/stars/new92/IGFI) [![Open issues](https://img.shields.io/github/issues-raw/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/issues-raw/new92/IGFI) [![Closed Issues](https://img.shields.io/github/issues-closed-raw/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/issues-closed-raw/new92/IGFI) [![Open pull requests](https://img.shields.io/github/issues-pr-raw/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/issues-pr-raw/new92/IGFI) [![Closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/issues-pr-closed-raw/new92/IGFI) [![Discussions](https://img.shields.io/github/discussions/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/discussions/new92/IGFI) [![Contributors](https://img.shields.io/github/contributors/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/contributors/new92/IGFI) [![Language](https://img.shields.io/github/languages/top/new92/IGFI?style=for-the-badge)](https://img.shields.io/github/languages/top/new92/IGFI?style=for-the-badge)
 
 With IGFI, you can effortlessly increase their followers by simply logging in. **It works seamlessly for both private and public accounts**. Upon the initial use, you can gain up to **50 followers**! Subsequent uses typically result in an addition of 25-30 followers. To maintain account safety, it is recommended to use the script every two (2) days to prevent potential blocking. The script also provides valuable information, including the number and the usernames of the followers added.
 
-> If you find this repository helpful, consider giving it a star and/or forking it. Your support encourages me to keep sharing similar repositories. If you encounter any issues or have suggestions, feel free to contact me anytime at <a href='mailto:new92github@gmail.com'>this email address</a>, or start a <a href="https://github.com/new92/IGFI/discussions">discussion</a>, or open an <a href="https://github.com/new92/IGFI/issues">issue</a>. Any form of feedback is welcome and appreciated (please refrain from using vulgar language).
+> If you find this repository helpful, consider giving it a star and/or forking it. Your support encourages me to keep sharing similar repositories. If you encounter any issues or have suggestions, feel free to contact me anytime at <a href='mailto:new92github@gmail.com'>this email address</a>, or start a <a href="https://github.com/new92/igfi/discussions">discussion</a>, or open an <a href="https://github.com/new92/igfi/issues">issue</a>. Any form of feedback is welcome and appreciated (please refrain from using vulgar language).
 
 ## Urls 🔗
 
- - [License](https://github.com/new92/IGFI/blob/main/LICENSE.md)
- - [Contributing](https://github.com/new92/IGFI/blob/main/CONTRIBUTING.md)
- - [Code of conduct](https://github.com/new92/IGFI/blob/main/CODE_OF_CONDUCT.md)
+ - [License](https://github.com/new92/igfi/blob/main/LICENSE.md)
+ - [Contributing](https://github.com/new92/igfi/blob/main/CONTRIBUTING.md)
+ - [Code of conduct](https://github.com/new92/igfi/blob/main/CODE_OF_CONDUCT.md)
  - [You may also find interesting](https://github.com/new92?tab=repositories)
 
 
@@ -26,7 +26,7 @@ With IGFI, you can effortlessly increase their followers by simply logging in. *
 
 ```bash
 sudo su
-git clone https://github.com/new92/IGFI
+git clone https://github.com/new92/igfi
 cd IGFI
 sudo pip install -r ./files/requirements.txt
 python3 ./cookies.py # this command will generate the value for the <path_to_session_file>
@@ -36,7 +36,7 @@ python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
 ### Windows 🪟
 
 ```bash
-git clone https://github.com/new92/IGFI
+git clone https://github.com/new92/igfi
 cd IGFI
 pip install -r ./files/requirements.txt
 python3 cookies.py # this command will generate the value for the <path_to_session_file>
@@ -46,7 +46,7 @@ python3 igfi.py -u <username> -p <password> --session <path_to_session_file>
 ### MacOS 🍎
 
 ```bash
-git clone https://github.com/new92/IGFI
+git clone https://github.com/new92/igfi
 cd IGFI
 python -m pip install -r ./files/requirements.txt
 python3 ./cookies.py # this command will generate the value for the <path_to_session_file>
@@ -56,7 +56,7 @@ python3 ./igfi.py -u <username> -p <password> --session <path_to_session_file>
 ### Docker 🐋
 
 ```bash
-git clone https://github.com/new92/IGFI
+git clone https://github.com/new92/igfi
 cd IGFI
 python3 ./cookies.py # this command will generate the value for the <path_to_session_file>
 docker build -t igfi .
@@ -68,7 +68,7 @@ docker run -e DOCKER_CONTAINER=true -e USERNAME=<username> -e PASSWORD=<password
 ### Windows 🪟
 
 ```bash
-git clone https://github.com/new92/IGFI
+git clone https://github.com/new92/igfi
 cd IGFI
 python -m venv igfi
 .\igfi\scripts\activate
@@ -80,7 +80,7 @@ python3 igfi.py -u <username> -p <password> --session <path_to_session_file>
 ### Linux 🐧 / MacOS 🍎
 
 ```bash
-git clone https://github.com/new92/IGFI
+git clone https://github.com/new92/igfi
 cd IGFI
 python -m venv igfi
 source venv/bin/activate
@@ -115,8 +115,8 @@ git pull
 - [x] ~~Virtual environment setup~~
 - [x] ~~Execute the script directly from terminal (using argparse)~~
 - [ ] V4 (this version will include the features as shown above and some extra)
-- [x] ~~Display the usernames of the followers added~~ **<a href="https://github.com/new92/IGFI/scripts/tree/main/igfi.py">URL</a>**
-- [x] ~~V3 script~~ **<a href='https://github.com/new92/IGFI/tree/main/scripts/igfi.py'>URL</a>**
+- [x] ~~Display the usernames of the followers added~~ **<a href="https://github.com/new92/igfi/scripts/tree/main/igfi.py">URL</a>**
+- [x] ~~V3 script~~ **<a href='https://github.com/new92/igfi/tree/main/scripts/igfi.py'>URL</a>**
 
 ## Tested on 🔎
 
@@ -128,7 +128,7 @@ git pull
 
 ## Screenshots 📸
 
-**Photos of the project can be found at <a href="https://github.com/new92/IGFI/tree/main/photos">this url</a>**
+**Photos of the project can be found at <a href="https://github.com/new92/igfi/tree/main/photos">this url</a>**
 
 ## Contributing 🤝
 
@@ -175,7 +175,7 @@ Answer ➡️ Only if you're using a very old version of Instagram. But the scri
 
 ## License 📜
 
-[![License](https://img.shields.io/github/license/new92/IGFI?style=for-the-badge)](https://github.com/new92/IGFI/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/new92/IGFI?style=for-the-badge)](https://github.com/new92/igfi/blob/main/LICENSE.md)
 
 ## Star History
 
