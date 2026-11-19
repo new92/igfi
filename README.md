@@ -116,7 +116,7 @@ git pull
 - [x] ~~Execute the script directly from terminal (using argparse)~~
 - [ ] V4 (this version will include the features as shown above and some extra)
 - [x] ~~Display the usernames of the followers added~~ **<a href="https://github.com/new92/igfi/scripts/tree/main/igfi.py">URL</a>**
-- [x] ~~V3 script~~ **<a href='https://github.com/new92/igfi/tree/main/scripts/igfi.py'>URL</a>**
+- [x] ~~V3 script~~ **<a href='https://github.com/new92/igfi/tree/main/igfi.py'>URL</a>**
 
 ## Tested on 🔎
 
